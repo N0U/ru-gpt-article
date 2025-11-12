@@ -43,7 +43,7 @@ GPT из России без VPN и проблем с оплатой можно 
   ```
 </details>
 
-Для телефона есть [GPT Mobile](https://github.com/Taewan-P/gpt_mobile), ChatBoost и [RikkaHub](https://rikka-ai.com/download). Ищите их в плей маркете или на F-Droid. ChatBoost хочет денег за возможность прикреплять картинки, а в GPT Mobile вообще такого функционала не завезли. RikkaHub, пишут, очень крутой, но у меня слишком старый телефон для него :(     
+Для телефона есть [ChatBoxAi](https://chatboxai.app/en), [GPT Mobile](https://github.com/Taewan-P/gpt_mobile), ChatBoost и [RikkaHub](https://rikka-ai.com/download). Ищите их в плей маркете или на F-Droid. ChatBoost хочет денег за возможность прикреплять картинки, а в GPT Mobile вообще такого функционала не завезли. RikkaHub, пишут, очень крутой, но у меня слишком старый телефон для него :(     
 Поищите сами другие приложения или спросите чат гпт. Именно он нашёл большинство приложений, о которых я вам пишу.
 
 ## Настройка
